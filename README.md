@@ -8,7 +8,7 @@
 Pipeline automatizado de clasificación de leads VIP usando Make, Airtable, Claude API y Gmail/Slack.
 
 ## Archivos
-- `EntregaFinal_Ecosistema_Leads_VIP.pdf` — Arquitectura completa del sistema
+- `EntregaFinal_Sebastian Rios.pdf` — Arquitectura completa del sistema
 - `blueprint_leads_vip.json` — Blueprint exportado desde Make
 - `screenshots/` — Capturas del flujo en ejecución
 
